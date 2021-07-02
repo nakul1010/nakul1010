@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakul Amate</h1>
-<h3 align="center">Am walking on the intersection of research and programming</h3>
+<h3 align="center">Walking on the intersection of research and programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul1010&label=Profile%20views&color=0e75b6&style=flat" alt="nakul1010" /> </p>
 
