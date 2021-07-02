@@ -1,7 +1,16 @@
-### Hi there 👋
+# <strong>RightAirBlack</strong>
+![My github stats](https://github-readme-stats.vercel.app/api?username=nakul1010&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakul1010&layout=compact&hide_border=true&hide=html,css)
+<!-- 
+## Something useless
+- <strong> [NTLANG](https://github.com/RightAirBlack/NTLang/) </strong>
+ -->
+<!-- ## Other things...
+- <strong> ![](https://www.bilibili.com/favicon.ico) [Bilibili](https://space.bilibili.com/414391716/) </strong>
+- <strong> <img src="https://gitee.com/static/images/logo_themecolor.png" height="32px" width="32px"> [gitee](https://gitee.com/rightair) </strong> -->
 <!--
-**nakul1010/nakul1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RightAirBlack/RightAirBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
